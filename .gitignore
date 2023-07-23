@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+d2go_repo
+dataset
+detectron2_repo
+output
+torchscript_int8@tracing
+*.zip
+*.pt
