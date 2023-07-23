@@ -6,3 +6,5 @@ output
 torchscript_int8@tracing
 *.zip
 *.pt
+*.jpg
+*.png
